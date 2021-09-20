@@ -1,3 +1,6 @@
+#Chat React App with Firebase
+Proyecto de React JS Desde Cero! Hooks, Redux, Context, Firebase de Udemy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
